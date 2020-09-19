@@ -134,6 +134,24 @@ h1
     margin: 40px;
     display: inline-block;
 }
+#iwork
+{
+    background-image: url(img/team.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin: 80px;
+    color: #efefef;
+}
+p.collapse:not(.show)
+{
+    height: 42px !important;
+    overflow: hidden;
+    display: -webkit-box;
+}
+
 #pidea
 {
     background-image: url(img/team.jpg);
