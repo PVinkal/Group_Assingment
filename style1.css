@@ -1,0 +1,106 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+
+/*-------Navigation------*/
+#nav-bar
+{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+.navbar-grp img
+{
+    height: 50px;
+    width: 180px;
+    padding-left: 30px;
+}
+.navbar-nav li
+{
+    padding: 0 10px;
+
+}
+.navbar-nav li a
+{
+    float: right;
+    text-align: left;
+
+}
+#nav-bar ul li a:hover
+{
+    color: #007bff !important;
+}
+.navbar
+{
+    background: #c7c7c7;
+    padding: 0 !important;
+}
+.navbar-toggler
+{
+    outline: none !important;
+    border: groove !important;
+}
+.nav-link
+{
+    color:#555 !important;
+    font-weight: 900;
+    font-size: 20px;
+}
+/*------Team Members*/
+#team
+{
+    background-image: url(img/team.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: #efefef;
+}
+h1
+{
+    text-align: center;
+    color: #efefe !important
+    padding-bottom: 10px;
+}
+h1::after
+{
+    content: '';
+    background: #007bff;
+    display: block;
+    height: 3px;
+    width: 170px;
+    margin: 20px auto 5px;
+}
+.profile-pic
+{
+    margin-top: 25px;
+    margin-left: -80px;
+    padding-left: 10px;
+}
+.profile-pic .img-box
+{
+    display: block;
+    position: relative;
+}
+
+.profile-pic h2
+{
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 10px;
+
+    color: #007bff !important;
+}
+.profile-pic h3
+{
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 10px;
+
+}
+
+
+
