@@ -59,12 +59,12 @@
     background-attachment: fixed;
     padding-top: 50px;
     padding-bottom: 50px;
+    margin: 80px;
     color: #efefef;
 }
 h1
 {
     text-align: center;
-    color: #efefef !important
     padding-bottom: 10px;
 }
 h1::after
@@ -133,4 +133,53 @@ h1
     border-left: 4px solid #007bff;
     margin: 40px;
     display: inline-block;
+}
+#pidea
+{
+    background-image: url(img/team.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    margin: 80px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.ph1
+{
+    color: #efefef ;
+    text-align: center;
+    padding-bottom: 10px;
+}
+.ph2
+{
+    color: #efefef ;
+    text-align: left;
+    padding-bottom: 10px;
+}
+.ph3
+{
+    color: #efefef ;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.pp
+{
+    padding-left: 25px;
+    color: #efefef ;
+    text-align: justify;
+}
+.ppb
+{
+    font-size: 25px;
+}
+.pul
+{
+    margin: 20px;
+}
+.special
+{
+    text-align: center;
 }
