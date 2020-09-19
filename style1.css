@@ -78,7 +78,11 @@ h1::after
 }
 #ijob
 {
+<<<<<<< HEAD
     padding-top: 50px;
+=======
+
+>>>>>>> e2c0bf3394aab396c1b6b6a079ca9b28342a089f
     margin: 80px;
     padding-left: 50px;
     padding-right: 50px;
