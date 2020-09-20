@@ -140,7 +140,7 @@ h1
     background-position: center;
     background-attachment: fixed;
     padding-top: 50px;
-    padding-bottom: 50px;
+    padding-bottom: 20px;
     margin: 80px;
     color: #efefef;
 }
@@ -276,4 +276,111 @@ blockquote::after
 .gh3
 {
     text-align: center;
+}
+#itech
+{
+    background-image: url(img/team.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    margin-top: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.container p
+{
+    padding-left: 25px;
+    color: #efefef ;
+    text-align: justify;
+}
+.container h2
+{
+    color: #efefef ;
+    padding-bottom: 10px;
+}
+.container h5
+{
+    color: #efefef ;
+    padding-bottom: 10px;
+}
+.container h6
+{
+    color: #efefef ;
+}
+#idata
+{
+    padding-top: 50px;
+    padding-bottom: 20px;
+    margin: 80px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+bh1
+{
+    color: #000000 ;
+    text-align: center;
+    padding-bottom: 10px;
+}
+.containeri h5
+{
+    color: #000000 ;
+    text-align: center;
+}
+#tools
+{
+    padding-top: 50px;
+    margin: 80px;
+    padding-bottom: 20px;
+    color: #000000;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.bth3
+{
+    color: #000000 ;
+    text-align: left;
+    padding-bottom: 10px;
+}
+.rowb p
+{
+    padding-left: 25px;
+    color: #000000 ;
+    text-align: justify;
+}
+.rowb h5
+{
+    color: #000000 ;
+    text-align: left;
+}
+.bh3
+{
+    color: #000000 ;
+    text-align: center;
+    padding-bottom: 10px;
+}
+.tab h5
+{
+    color: #000000 ;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+#footer
+.pb
+{
+    color: #000000 ;
+}
+.black p
+{
+    color: #000000
+}
+.fhead h5
+{
+    color: #000000
+}
+.fhead h6
+{
+    color: #000000
 }
