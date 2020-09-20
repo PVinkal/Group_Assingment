@@ -206,7 +206,7 @@ p.collapse:not(.show)
     padding-top: 50px;
     padding-bottom: 50px;
 }
-#grpref .row
+#grpref 
 {
     margin-top: 30px;
 
@@ -269,4 +269,12 @@ blockquote::after
     box-shadow: 0 0 15px 5px rgba(0,0,0,0.2);
     cursor: pointer;
     transition: 0.5s;
+}
+.row p
+{
+    text-align: center;
+}
+.gh3
+{
+    text-align: center;
 }
